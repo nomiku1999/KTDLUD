@@ -11,5 +11,5 @@
 
 ### Tài liệu của nhóm
 - Kế hoạch nhóm, phân chia công việc: [Trello](https://trello.com/b/xT16duNh/damh)
-- Report: [Google Colab]
+- Report: [Google Colab](https://colab.research.google.com/github/nomiku1999/KTDLUD/blob/main/Report.ipynb#scrollTo=483e6c5d)
 - Drive làm việc chung: [Google Drive]
