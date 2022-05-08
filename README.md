@@ -11,4 +11,4 @@
 
 ### Tài liệu của nhóm
 - Kế hoạch nhóm, phân chia công việc: [Google Sheet](https://docs.google.com/spreadsheets/d/1_0hnQiT4ins_HBsMMb9BQHw2Od_Menqf3pBsCIX0BwM/edit?usp=sharing)
-- Report: [Google Colab](https://colab.research.google.com/github/nomiku1999/KTDLUD/blob/main/Report.ipynb#scrollTo=483e6c5d)
+- Report: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nomiku1999/KTDLUD/blob/main/Report.ipynb#scrollTo=483e6c5d)
