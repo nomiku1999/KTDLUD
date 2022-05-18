@@ -1,4 +1,4 @@
-# Đồ án môn Khai thác dữ liệu ứng dụng
+# Đồ án môn Khoa học dữ liệu ứng dụng
 **Giảng viên: Thầy Trần Trung Kiên**
 
 ## Thông tin nhóm
